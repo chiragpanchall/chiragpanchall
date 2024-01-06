@@ -2,9 +2,9 @@
 #### A Software Engineer || Avid Learner
 While doing study or job , I like to create stuff which really motivates me and i'm enjoying while doing.
 
-Skills: JAVASCRIPT , C  ,  PHP  ,  JAVA
+Skills: JAVASCRIPT , React , Node
 
-- 🌱 I’m currently learning MERN stack and ML 
+- 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on innovative projects 
 - 💬 Ask me about javascript 
 - 📫 How to reach me: cpanchal1009@gmail.com 
